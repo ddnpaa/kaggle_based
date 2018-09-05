@@ -1,3 +1,24 @@
+
+# kaggleで共通して使うであろうソース
+
+load_data.py  
+→csvデータを読み込む
+
+train_xgb.py  
+→xgboostで学習を行う
+
+
+
+
+
+
+
+
+
+
+
+
+
 # kaggle 教訓&メモ
 
 
