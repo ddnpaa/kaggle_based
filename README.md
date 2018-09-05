@@ -36,5 +36,6 @@ train_xgb.py
 ある程度特徴量エンジニアリングに見込みがなくなったら、学習率を0.01などに下げる。
 
 
-
+その他　
+[Markdownチートシート](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)
 
