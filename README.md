@@ -37,8 +37,6 @@ train_xgb.py
 
 ___
 その他　メモ  
-
-<a href="https://www.youtube.com/channel/UCiECS_auJLNpFsvjTi1WuxQ" target="_blank">Takami_Sato様のチャンネル</a>  
   
 [Takami_Sato様のチャンネル](https://www.youtube.com/channel/UCiECS_auJLNpFsvjTi1WuxQ)
   
