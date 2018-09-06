@@ -38,6 +38,6 @@ train_xgb.py
 ___
 その他　メモ  
 
-[Takami_Sato様のチャンネル](https://www.youtube.com/channel/UCiECS_auJLNpFsvjTi1WuxQ)
+[Takami_Sato様のチャンネル](https://www.youtube.com/channel/UCiECS_auJLNpFsvjTi1WuxQ)  
 [Markdownチートシート](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)
 
