@@ -38,8 +38,9 @@ train_xgb.py
 ___
 その他　メモ  
 
-<a href="https://www.youtube.com/channel/UCiECS_auJLNpFsvjTi1WuxQ" target="_blank">Takami_Sato様のチャンネル</a>
-[Takami_Sato様のチャンネル](https://www.youtube.com/channel/UCiECS_auJLNpFsvjTi1WuxQ" target="_blank){:target="_blank"}
+<a href="https://www.youtube.com/channel/UCiECS_auJLNpFsvjTi1WuxQ" target="_blank">Takami_Sato様のチャンネル</a>  
   
-[Markdownチートシート](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa){:target="_blank"}  
+[Takami_Sato様のチャンネル](https://www.youtube.com/channel/UCiECS_auJLNpFsvjTi1WuxQ)
+  
+[Markdownチートシート](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)
 
