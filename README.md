@@ -27,7 +27,7 @@ train_xgb.py
 →どこでエラーが出ているかを確認できる上に、実行時間も出るため、どのくらい処理に時間がかかっているかもわかる。  
 またkaggleにsubmitする際に残すメモにloggerの出力をそのままコピペするだけで、何をしたソースかわかる。
 
-②モデルはほぼxgboostの一強  
+②モデルはほぼlightGBM,xgboost系の一強  
 →kaggleでの上位争いは、**特徴量エンジニアリング**にかかっている。
 
 
@@ -38,7 +38,8 @@ train_xgb.py
 ___
 その他　メモ  
 
-[Takami_Sato様のチャンネル](https://www.youtube.com/channel/UCiECS_auJLNpFsvjTi1WuxQ){:target="_blank"}  
+<a href="https://www.youtube.com/channel/UCiECS_auJLNpFsvjTi1WuxQ" target="_blank">Takami_Sato様のチャンネル</a>
+[Takami_Sato様のチャンネル](https://www.youtube.com/channel/UCiECS_auJLNpFsvjTi1WuxQ" target="_blank){:target="_blank"}
   
 [Markdownチートシート](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa){:target="_blank"}  
 
